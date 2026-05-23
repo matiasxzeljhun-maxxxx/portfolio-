@@ -25,7 +25,7 @@ I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons
 
 playing online game
 
-Coding
+Driunking Master
 
 Electronics Projects
 
