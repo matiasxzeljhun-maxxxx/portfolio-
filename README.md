@@ -12,3 +12,25 @@
 *Rinian
 
 <u> Xzeljhun </u>
+
+#Xzeljhun Matias
+
+## About Me
+
+I am Xzeljhun I will enjoying a electronics , Arduino projects, PCB design C++, and creating simple design.
+
+## Location Iraan Rizal Palawan
+
+## Hobbies
+
+playing online game
+
+Coding
+
+Electronics Projects
+
+Schematic diagram
+
+##Skills
+
+Skill
