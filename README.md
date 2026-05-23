@@ -19,7 +19,23 @@ mmm# Xzeljhun Matias
 
 I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons and knowledge I had learned.And I am the most handsome of all ECE Student.
 
-## Location Poblacion Taytay Palawan
+## More About Me
+
+Address: Poblacion Taytay Palawan
+
+Durrent Address : Tiniguiban, Puerto Princesa City, palawan
+
+Birthday: November 16,2004
+
+Status : Loyal Sa Sampu
+
+Gender : Male
+
+Telp# : 09859065108
+
+
+
+
 
 ## Hobbies
 
