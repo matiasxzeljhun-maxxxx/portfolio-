@@ -7,10 +7,10 @@
 | Xzeljhun | Matias |
 |----------|--------|
 
-### friends
-*Kiven
-*Mikee
-*Rinian
+### Mga kupal ng ECT
+•Kiven
+•Mikee
+•Rinian
 
 <u> Xzeljhun </u>
 
@@ -26,13 +26,14 @@ Address: Poblacion Taytay Palawan
 
 Current Address : Tiniguiban, Puerto Princesa City, palawan
 
-Birthday: November 16,2004
+•Birthday: November 16,2004
 
-Status : Loyal Sa Sampu
+•Status : Loyal Sa Sampu
 
-Gender : Male
+•Gender : Male
 
-Gcash# : 09859065108
+•Gcash# : 09859065108
+
 Sendan mo 10M
 
 
