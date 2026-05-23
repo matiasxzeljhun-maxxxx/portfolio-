@@ -32,7 +32,8 @@ Status : Loyal Sa Sampu
 
 Gender : Male
 
-Telp# : 09859065108
+Gcash# : 09859065108
+Sendan mo 10M
 
 
 
