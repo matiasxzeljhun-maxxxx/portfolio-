@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons and knowledge I had learned.
+I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons and knowledge I had learned.And I am the most handsome of all ECE Student.
 
 ## Location Poblacion Taytay Palawan
 
