@@ -19,7 +19,7 @@
 
 I am Xzeljhun I will enjoying a electronics , Arduino projects, PCB design C++, and creating simple design.
 
-## Location Iraan Rizal Palawan
+## Location Poblacion Taytay Palawan
 
 ## Hobbies
 
@@ -34,3 +34,5 @@ Schematic diagram
 ##Skills
 
 Skill
+
+mechanics
