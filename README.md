@@ -43,18 +43,18 @@ Sendan mo 10M
 
 ## Hobbies
 
-playing online game
+•playing online game
 
-Driunking Master
+•Driunking Master
 
-Electronics Projects
+•Electronics Projects
 
-Schematic diagram
+•Schematic diagram
 
 ## Skills
 
-mechanics
+•mechanics
 
-invent 
+•invent 
 
-play guitar
+•play guitar
