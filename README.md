@@ -33,6 +33,8 @@ Schematic diagram
 
 ## Skills
 
-Skill
-
 mechanics
+
+invent 
+
+play guitar
