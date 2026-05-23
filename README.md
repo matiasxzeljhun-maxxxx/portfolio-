@@ -35,7 +35,7 @@ Current Address : Tiniguiban, Puerto Princesa City, palawan
 
 •Gcash# : 09859065108
 
-Sendan mo 10M
+Sana ma sendan mo 10M
 
 
 
@@ -45,11 +45,13 @@ Sendan mo 10M
 
 •playing online game
 
-•Driunking Master
+•Drunking Master
 
 •Electronics Projects
 
 •Schematic diagram
+
+•Magmahal kahit Hindi mahal
 
 ## Skills
 
