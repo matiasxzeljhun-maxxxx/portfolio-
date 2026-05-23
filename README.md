@@ -23,9 +23,9 @@ I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons
 
 ## More About Me
 
-Address: Poblacion Taytay Palawan
+•Address: Poblacion Taytay Palawan
 
-Current Address : Tiniguiban, Puerto Princesa City, palawan
+•Current Address : Tiniguiban, Puerto Princesa City, palawan
 
 •Birthday: November 16,2004
 
