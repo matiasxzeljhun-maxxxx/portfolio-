@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am Xzeljhun I will enjoying a electronics , Arduino projects, PCB design C++, and creating simple design.
+I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons and knowledge I had learned.
 
 ## Location Poblacion Taytay Palawan
 
