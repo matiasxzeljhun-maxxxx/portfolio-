@@ -8,8 +8,8 @@
 |----------|--------|
 
 ### Mga kupal ng ECT
-+Kiven
--Mikee
+*Kiven
+*Mikee
 *Rinian
 
 <u> Xzeljhun </u>
