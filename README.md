@@ -1,62 +1,56 @@
-# Xzeljhun Matias 
-## Xzeljhun Matias
+## Project Title
+---
+ESP32 EXPANSION BOARD
 
-**Xzeljhun**
-*Xzeljhun*
+---
 
-| Xzeljhun | Matias |
-|----------|--------|
+### Project Description
+The ESP32 Expansion Board is a custom-designed development board that extends the functionality of the ESP32 microcontroller. It provides easy access to GPIO pins, power connections, communication interfaces, and peripheral modules for faster prototyping and embedded systems development. The board is designed for students, hobbyists, and developers who want a convenient platform for IoT, automation, robotics, and wireless communication projects.
 
-### Mga kupal ng ECT
+---
 
-•Kiven
-•Mikee
-•Rinian
+## Features
 
-<u> Xzeljhun </u>
+---
 
-#Xzeljhun Matias
+- Compatible with ESP32 Development Module
+- Easy access to all GPIO pins
+- Multiple power output connections (3.3V and 5V)
+- Breadboard-friendly design
+- LED power indicator
+- Compact and durable PCB layout
+- Suitable for sensors, displays, relays, and modules
 
-## About Me
+---
 
-I am Xzeljhun I am a Electronics Engineering student and i enjoy all the lessons and knowledge I had learned.And I am the most handsome of all ECE Student.
+## Components Used
 
-## More About Me
+---
 
-•Address: Poblacion Taytay Palawan
+- ESP32 Dev Module
+- Female Header Pins
+- Voltage Regulator
+- Capacitors
+- Resistors
+- LED Indicator
+- PCB Board
+- Screw Terminals / Pin Headers
 
-•Current Address : Tiniguiban, Puerto Princesa City, palawan
+---
+## Software Used
 
-•Birthday: November 16,2004
+---
 
-•Status : Loyal Sa Sampu
+- EasyEDA
+- Arduino IDE
 
-•Gender : Male
+## Author Name
+- Xzeljhun Matias
 
-•Gcash# : 09859065108
+---
 
-Sana ma sendan mo 10M
+## Course & Section
 
+- ECE/EN1A
 
-
-
-
-## Hobbies
-
-•playing online game
-
-•Drunking Master
-
-•Electronics Projects
-
-•Schematic diagram
-
-•Magmahal kahit Hindi mahal
-
-## Skills
-
-•mechanics
-
-•invent 
-
-•play guitar
+  ---
